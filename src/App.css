@@ -26,6 +26,10 @@ button {
 	text-transform: uppercase;
 }
 
+button:hover {
+	cursor: pointer;
+}
+
 button:disabled {
 	cursor: not-allowed;
 }
@@ -38,7 +42,7 @@ h1 {
 textarea {
 	font-family: "Source Code Pro", cursive;
 	border: 3px solid black;
-	width: 90%;
+	width: 60%;
 	margin: 0 auto;
 	outline: none;
 	height: 200px;
