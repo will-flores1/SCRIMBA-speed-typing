@@ -1,18 +1,17 @@
-# Tenzies Game
+# Speed Typing Game
 
-## Rules
+[Live URL](https://tenzies-game-olive.vercel.app/)
 
-- Click start and begin typing!
+How fast do you type?
 
-WEBSITE: [Link](https://tenzies-game-olive.vercel.app/)
+## Description
+
+A speed typing test with a React front-end
+
+- Javascript
+  - Click start to toggle focus on input and begin 5 second timer
+  - Once timer expires, input is disabled and Word count is updated
 
 ## Screenshot
 
 ![App Screenshot](/public/speed-typing-game.png)
-
----
-
-## Things Learned:
-
-- React useEffect
-- React useRef
