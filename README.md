@@ -1,7 +1,5 @@
 # Speed Typing Game
 
-[Live URL](https://tenzies-game-olive.vercel.app/)
-
 How fast do you type?
 
 ## Description
